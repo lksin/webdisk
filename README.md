@@ -6,4 +6,4 @@
 ### 相关
 [PanIndex](https://github.com/libsgh/PanIndex)
 
-MgG7Q~T0~EZzuBZJ3gUj5P5Wq0RX45DTGkcS6
+``MgG7Q~T0~EZzuBZJ3gUj5P5Wq0RX45DTGkcS6``
